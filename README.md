@@ -1,3 +1,5 @@
+![](C:\source\paper_HPRNet\HPRO_github\hpro\image.PNG)
+
 # HPRO: Direct Visibility of Point Clouds for Optimization
 **Authors**: Sagi Katz, Ayellet Tal
 
