@@ -38,6 +38,8 @@ pip install -r requirements.txt
 
 Run demo.py for an example that compares HPRO and HPR to the ground truth for a provided model.
 
+## Acknowledgements 
+lamp_0001.off in this repo is from **ModelNet-40**. You can download the full ModelNet-40 dataset from the [official source](https://modelnet.cs.princeton.edu/).
 
 ## License
 
