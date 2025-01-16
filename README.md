@@ -43,6 +43,8 @@ Run demo.py for an example that compares HPRO and HPR to the ground truth for a 
 ## Acknowledgements 
 lamp_0001.off in this repo is from **ModelNet-40**. You can download the full ModelNet-40 dataset from the [official source](https://modelnet.cs.princeton.edu/).
 
+We gratefully acknowledge the support of the Israel Science Foundation 2329/22
+
 ## License
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
